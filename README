@@ -1,0 +1,10 @@
+davetunes-0.1
+=================
+
+davetunes is a simple script for organizing mp3 files into directories by artist and album.
+
+it is aimed at users who prefer lightweight music players that don't have library management built in, or for users who have a messy soulseek downloads folder and don't want to launch a bloated music player to organize it for them, or anyone else who just feels like using this.
+
+this script depends on mutagen to read metadata (http://code.google.com/p/mutagen/) - you must have this installed to run davetunes.
+
+THIS IS VERY MUCH IN ALPHA DEVELOPMENT, PLEASE MAKE BACKUPS OF ANY FILES YOU DECIDE TO TEST THIS CODE ON, PLEASE!!!
