@@ -8,3 +8,7 @@ it is aimed at users who prefer lightweight music players that don't have librar
 this script depends on mutagen to read metadata (http://code.google.com/p/mutagen/) - you must have this installed to run davetunes.
 
 THIS IS VERY MUCH IN ALPHA DEVELOPMENT, PLEASE MAKE BACKUPS OF ANY FILES YOU DECIDE TO TEST THIS CODE ON, PLEASE!!!
+
+to use:
+
+$ python davetunes-0.1.py [source path] [destination path]
